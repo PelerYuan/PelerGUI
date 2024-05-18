@@ -1,0 +1,8 @@
+LICENSE
+README.rst
+setup.py
+PelerGUI/__init__.py
+PelerGUI.egg-info/PKG-INFO
+PelerGUI.egg-info/SOURCES.txt
+PelerGUI.egg-info/dependency_links.txt
+PelerGUI.egg-info/top_level.txt
